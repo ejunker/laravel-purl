@@ -1,5 +1,7 @@
 ## Laravel Purl
+A Laravel package for the Purl URL manipulation library. For information on how to use Purl, see the [Purl Documentation](https://github.com/jwage/purl).
 
+## Installation
 Require this package in your composer.json and update composer.
 
     "ejunker/laravel-purl": "dev-master"
