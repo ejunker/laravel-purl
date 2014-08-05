@@ -1,6 +1,6 @@
 {
     "name": "ejunker/laravel-purl",
-    "description": "",
+    "description": "A Laravel package for the Purl URL manipulation library.",
     "authors": [
         {
             "name": "Eric Junker",
