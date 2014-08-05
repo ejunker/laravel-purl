@@ -1,0 +1,25 @@
+{
+    "name": "ejunker/laravel-purl",
+    "description": "",
+    "authors": [
+        {
+            "name": "Eric Junker",
+            "email": "ejunker@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*",
+        "jwage/purl": "0.0.*"
+    },
+    "autoload": {
+        "classmap": [],
+        "psr-0": {
+            "Ejunker\\LaravelPurl\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "illuminate/http": "4.1.*"
+    }
+}
