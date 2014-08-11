@@ -4,7 +4,7 @@ A Laravel package for the Purl URL manipulation library. For information on how 
 ## Installation
 Require this package in your composer.json and update composer.
 
-    "ejunker/laravel-purl": "dev-master"
+    "ejunker/laravel-purl": "0.1.*"
 
 After updating composer, add the ServiceProvider to the providers array in app/config/app.php
 
