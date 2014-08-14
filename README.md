@@ -1,10 +1,10 @@
 ## Laravel Purl
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/thephpleague/url/master.svg?style=flat)](https://travis-ci.org/thephpleague/url)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/thephpleague/url.svg?style=flat)](https://scrutinizer-ci.com/g/thephpleague/url/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/thephpleague/url.svg?style=flat)](https://scrutinizer-ci.com/g/thephpleague/url)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/url.svg?style=flat)](https://packagist.org/packages/league/url)
+[![Build Status](https://img.shields.io/travis/ejunker/laravel-purl/master.svg?style=flat)](https://travis-ci.org/thephpleague/url)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/ejunker/laravel-purl.svg?style=flat)](https://scrutinizer-ci.com/g/thephpleague/url/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/ejunker/laravel-purl.svg?style=flat)](https://scrutinizer-ci.com/g/thephpleague/url)
+[![Total Downloads](https://img.shields.io/packagist/dt/ejunker/laravel-purl.svg?style=flat)](https://packagist.org/packages/league/url)
 
 A Laravel package for the Purl URL manipulation library. For information on how to use Purl, see the [Purl Documentation](https://github.com/jwage/purl).
 
